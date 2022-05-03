@@ -1,0 +1,105 @@
+body {
+ 
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Comic CAT', 'RocknRoll One', 'Yanone Kaffeesatz';
+  color: 000;
+  font-size: 16px;
+  max-width: 768px;
+  
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding: 0px;
+  margin: 0px;
+  text-transform: uppercase;
+}
+img.images {
+  position: absolute;
+  width: 1366px;
+  height: 653px;
+  top: 0px;
+left: 0px;
+}
+
+
+h4 {
+  position: absolute;
+  margin-left: 256px;
+  margin-top: 35px;
+  color: #fff;
+  font-family: 'Comic CAT';
+  font-size: 20px;
+ line-height: 1.745em;
+ letter-spacing: 0.125em
+}
+
+.nav {
+  display: flex;
+}
+.home {
+position: absolute;
+margin-left: 958px;
+margin-top: 35px;
+color: #fff;
+font-family: 'Comic CAT';
+font-size: 20px;
+line-height: 1.745em;
+letter-spacing: 0.125em;
+text-decoration: none; 
+}
+
+.gallery {
+  position: absolute;
+  margin-top: 35px;
+  margin-left: 1091px;
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Comic CAT';
+  line-height: 1.745em;
+letter-spacing: 0.125em;
+}
+
+
+.logo {
+  position: absolute;
+  top: 33px;
+  left: 197px;
+  width: 43px;
+height: 35px;
+  display: flex;
+}
+
+.logo1 {
+  position: absolute;
+  top: 28px;
+  left: 193px;
+ display: flex;
+ border-radius: 50%;
+ width: 50px;
+ height: 50px;
+right: 13px;
+bottom: 575px;
+right: 1123px;
+}
+
+.title {
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 175px;
+  left: 480px;
+  font-size: 100px;
+  font-family: 'Yanone Kaffeesatz';
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.745em;
+  bottom: 370px;
+  right: 474px;
+  letter-spacing: 0.66em;
+  width: 412px;
+height: 114px;
+font-weight: 500;
+text-align: center;
+
+}
